@@ -620,7 +620,7 @@ PlayerSettings:
     ErrorHub: 0
     Hub: 0
     UNet: 1
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 5c0914c9-3961-4fcf-b26d-5551d214517b
   projectName: TicTacToe-Sample
